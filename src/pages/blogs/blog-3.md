@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/blogslayout.astro
-title: "The Impact of Donating to Al Noor Trust"
+title: "The Impact of Donating to Al Fakih Trust"
 image: "/assets/images/blog/blog-1.jpg"
 bannerimg: "/assets/images/blog/blog-2.png"
 ---
